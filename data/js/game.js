@@ -3,10 +3,9 @@
     # require
         -> avail.js
     # comments
-        -> This is just a beta test version of game.js
-           there is may exist some of performance issues
+        -> Bad optimization :))
     # license
-        -> Private use only
+        -> :v
 */
 
 const Game = function (cfgs = {}) {
