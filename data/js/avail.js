@@ -2,8 +2,6 @@
     # author: fuong74200
     # require
         -> none
-    # docs
-        -> http://127.0.0.1:5500/avail/docs
     # license
         -> :v
     # version

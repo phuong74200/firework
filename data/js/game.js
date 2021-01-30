@@ -2,9 +2,6 @@
     # author: fuong74200
     # require
         -> avail.js
-            # require $.md5()
-    # docs
-        -> http://127.0.0.1:5500/avail/extension/game/docs
     # comments
         -> This is just a beta test version of game.js
            there is may exist some of performance issues
